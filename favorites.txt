@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Shawarma
 Qyalla
 Chanakh
+=======
+Movies
+Fifth Element
+Forest Gump
+The Godfather
